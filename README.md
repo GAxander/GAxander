@@ -63,6 +63,19 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador enfocado en soluciones
 
 ---
 
+### 💻 Proyectos Destacados
+
+Aquí puedes ver algunos de mis proyectos recientes, desarrollados desde cero y desplegados en producción:
+
+| Proyecto | Descripción | Stack | Enlaces |
+| :--- | :--- | :--- | :--- |
+| **Xpos SaaS** | Plataforma multi-tenant para restaurantes con control de inventario, gestión de pedidos y facturación electrónica SUNAT. | `Next.js` `NestJS` `Prisma` | [ <br> *(En desarrollo)* |
+| **Giarvis** | [Ej: Aplicación web interactiva orientada a la asistencia virtual / gestión inteligente de tareas]. | `[React/Angular]` `[Tailwind]` |  <br> [🌐 Ver en vivo](https://giarvis.netlify.app) |
+| **Truka Coffee** | [Ej: Landing page comercial para una cafetería de especialidad, con enfoque en UI/UX y catálogo de productos]. | `[HTML/CSS/JS]` `[Bootstrap]` |  <br> [🌐 Ver en vivo](https://truka-coffee.netlify.app) |
+| **Nor Peruana** | [Ej: Portal web para un restaurante de auténtica comida norteña, optimizado para reservas y visualización de menú]. | `[Vue/React]` `[Node.js]` |  <br> [🌐 Ver en vivo](https://nor-peruana.netlify.app) |
+| **Saulitos (1992)** | [Ej: Sitio web institucional para un negocio local con amplia trayectoria, modernizando su presencia digital]. | `[Angular]` `[TypeScript]` | <br> [🌐 Ver en vivo](https://saulitosfrom1992.netlify.app) |
+
+
 ### 📈 Mis Estadísticas de GitHub
 
 <p align="center">
