@@ -1,4 +1,4 @@
-# ¡Hola! Soy Xanderga Gamboa Alva 👋
+# ¡Hola! Soy Xander Gamboa Alva 👋
 
 Soy estudiante de Ingeniería de Sistemas y desarrollador enfocado en soluciones Full-Stack y móviles. Me apasiona construir arquitecturas sólidas, resolver problemas de lógica de negocio compleja y llevar proyectos desde la concepción hasta el despliegue en producción.
 
@@ -44,14 +44,14 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador enfocado en soluciones
 
 ### 📈 Mis Estadísticas de GitHub
 
+### 📈 Mis Estadísticas de GitHub
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=GAxander&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GAxander&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trofeos de GAxander" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=GAxander&label=Vistas+del+Perfil&color=7F52FF&style=flat" alt="Contador de visitas" />
 </p>
 
 ---
