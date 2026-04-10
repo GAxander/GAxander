@@ -5,11 +5,9 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador enfocado en soluciones
 ### 🚀 Sobre mí
 
 - 🎓 Actualmente desarrollando mi tesis de grado en Ingeniería de Sistemas.
-- 💻 Creador de **Xpos**, una plataforma SaaS multi-tenant para restaurantes, gestionando desde el control de inventario hasta la toma de pedidos.
-- ⚙️ Especializado en la integración de facturación electrónica (estándares **SUNAT** mediante ApisPerú) y desarrollo de lógica financiera (cálculos de intereses, mora diaria y cronogramas de pagos).
 - ☁️ Experiencia configurando entornos y desplegiendo aplicaciones utilizando plataformas como **Vercel** y **Render**.
 - 📊 Experiencia en administración de proyectos de software: creación de cronogramas, evaluación de riesgos y trabajo colaborativo en equipos ágiles.
-- 🤖 Interesado en el análisis de datos y Machine Learning, aplicando modelos para el análisis de sentimientos.
+- 🤖 Interesado en el análisis de datos y Machine Learning.
 - 🤝 Siempre abierto a colaborar en proyectos de desarrollo móvil nativo o arquitecturas escalables.
 
 ---
