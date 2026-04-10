@@ -71,7 +71,7 @@ Aquí puedes ver algunos de mis proyectos recientes, desarrollados desde cero y 
 | :--- | :--- | :--- | :--- |
 | **Xpos SaaS** | Plataforma multi-tenant para restaurantes con control de inventario, gestión de pedidos y facturación electrónica SUNAT. | `Next.js` `NestJS` `Prisma` | [ <br> *(En desarrollo)* |
 | **Giarvis** | Landing page para comercializacion de la venta de un software de inventario con inteligencia artificial, además de la prueba simulada del funcionamineto del software. | `[React/Angular]` `[Tailwind]` |  <br> [🌐 Ver en vivo](https://giarvis.netlify.app) |
-| **Truka Coffee** | Landing page comercial para una empresa exportadora de café, con enfoque en UI/UX y catálogo de productos]. | `[HTML/CSS/JS]` `[Bootstrap]` |  <br> [🌐 Ver en vivo](https://truka-coffee.netlify.app) |
+| **Truka Coffee** | Landing page comercial para una empresa exportadora de café, con enfoque en UI/UX y catálogo de productos. | `[HTML/CSS/JS]` `[Bootstrap]` |  <br> [🌐 Ver en vivo](https://truka-coffee.netlify.app) |
 | **Nor Peruana** | Landing page para una empresa del rubro de maquinarías pesadas, enfocado en el frontend para el aumento del alquiler de maquinarias pesadas | `[Vue/React]` `[Node.js]` |  <br> [🌐 Ver en vivo](https://nor-peruana.netlify.app) |
 | **Saulitos (1992)** | Prototipo web de uso universitario, para la modernizacion de una empresa enfocada en el rubro gastronomico, buscando aumentar ventas a través de la digitalización de su tienda | `[Angular]` `[TypeScript]` | <br> [🌐 Ver en vivo](https://saulitosfrom1992.netlify.app) |
 
