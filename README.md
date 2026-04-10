@@ -44,8 +44,6 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador enfocado en soluciones
 
 ### 📈 Mis Estadísticas de GitHub
 
-### 📈 Mis Estadísticas de GitHub
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=GAxander&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
 </p>
