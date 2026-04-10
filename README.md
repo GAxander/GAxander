@@ -44,9 +44,15 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador enfocado en soluciones
 
 ### 📈 Mis Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=GAxander&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/GAxander)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=GAxander&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
+</p>
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GAxander&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/GAxander)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=GAxander&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trofeos de GAxander" />
+  </a>
+</p>
 
 ---
 
