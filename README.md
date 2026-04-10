@@ -1,4 +1,4 @@
-# ¡Hola! Soy Johan 👋
+# ¡Hola! Soy Xanderga Gamboa Alva 👋
 
 Soy estudiante de Ingeniería de Sistemas y desarrollador enfocado en soluciones Full-Stack y móviles. Me apasiona construir arquitecturas sólidas y resolver problemas de lógica de negocio compleja.
 
