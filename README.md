@@ -48,10 +48,6 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador enfocado en soluciones
   <img src="https://streak-stats.demolab.com/?user=GAxander&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GAxander&label=Vistas+del+Perfil&color=7F52FF&style=flat" alt="Contador de visitas" />
-</p>
-
 ---
 
 ### 📫 Cómo contactarme
