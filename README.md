@@ -45,8 +45,8 @@ Soy estudiante de Ingeniería de Sistemas y desarrollador enfocado en soluciones
 ### 📈 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GAxander&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAxander&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gaxander&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaxander&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%" />
 </p>
 
 ---
