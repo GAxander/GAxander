@@ -1,6 +1,6 @@
 # ¡Hola! Soy Xander Gamboa Alva 👋
 
-Soy estudiante de Ingeniería de Sistemas y desarrollador enfocado en soluciones Full-Stack y móviles. Me apasiona construir arquitecturas sólidas, resolver problemas de lógica de negocio compleja y llevar proyectos desde la concepción hasta el despliegue en producción.
+Soy estudiante de noveno ciclo la carrera de de Ingeniería de Sistemas en la Universidad Privada del Norte y desarrollador enfocado en soluciones Full-Stack y móviles. Me apasiona construir arquitecturas sólidas, resolver problemas de lógica de negocio compleja y llevar proyectos desde la concepción hasta el despliegue en producción.
 
 ### 🚀 Sobre mí
 
